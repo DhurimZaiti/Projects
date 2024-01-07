@@ -9,6 +9,7 @@ image editor
 //easier projects
 youtube video downloader
 flashcard app
-pomodoro timer
+pomodoro timer [DONE]
 //cool project
 yard sale flipper
+Tetris [DONE]
