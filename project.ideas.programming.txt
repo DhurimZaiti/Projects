@@ -1,0 +1,14 @@
+task automater
+tetris
+tic tac toe (if i have it already it's good)
+take spotify playlist and get the url of the song and set it to a youtube playlist (must do)
+web scraper (something like picking up listings or flight tickets and chuck them into a python/data science sheet)
+recommandation system with ai (you can combine this with the next one)
+cloning a popular app, but adding you own twist
+image editor
+//easier projects
+youtube video downloader
+flashcard app
+pomodoro timer
+//cool project
+yard sale flipper
