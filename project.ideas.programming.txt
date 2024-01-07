@@ -7,9 +7,19 @@ recommandation system with ai (you can combine this with the next one)
 cloning a popular app, but adding you own twist
 image editor
 //easier projects
-youtube video downloader
+youtube video downloader [working on it right now]
 flashcard app
 pomodoro timer [DONE]
 //cool project
 yard sale flipper
 Tetris [DONE]
+//PHP projects
+Import/Export Data Project
+Shopping Cart
+Email Sending
+CRUD OPS with sorting, filtering and pagination
+QR CODE generator
+work with CURL???
+costumer registration 
+event manager
+create a composer package (and preapre a good readMe)???
